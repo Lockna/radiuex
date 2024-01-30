@@ -50,3 +50,15 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+/*~
+
+/aclocal.m4
+/autom4te.cache 
+/config.status
+/config.log
+/configure
+/GNUmakefile
+/build-aux
+/bin
+/obj
