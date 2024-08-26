@@ -52,13 +52,6 @@ override CFLAGS += \
     $(WERROR_FLAG) \
     -std=gnu11 \
     $(PKGCONF_CFLAGS) \
-		-lglfw \
-		-lGL \
-		-lX11 \
-		-lpthread \
-		-lXrandr \
-		-lXi \
-		-ldl \
 		-Iinclude/
 
 # Internal C preprocessor flags that should not be changed by the user.
